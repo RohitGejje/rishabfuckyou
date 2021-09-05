@@ -1,0 +1,34 @@
+h1{color:#ff0000;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;}
+    
+    body{background-color: #000000;}
+    
+    .btn {
+       
+        border-width: 10pxpx;
+        font-size: 30px;
+        color: #000000;
+        font-style: italic;
+        font-family: fantasy;
+        border-color: rgb(0, 0, 0);
+        background-color:rgb(255, 0, 0);
+        padding: .5em;
+        padding-right: 10px;}
+    
+    
+       
+    
+    .container {align-self: center;
+                margin-left: 20%;
+                margin-right: 20%;
+            align-content: center;
+        box-sizing: border-box;
+    size: 600px;
+    text-align: center;}
+    
+    .button {align-content: center;
+    align-items: center;
+    text-align: center;}
